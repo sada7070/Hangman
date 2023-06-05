@@ -1,1 +1,2 @@
 # Hangman
+This is a python program, in which we will guess the word by guessing individual letters. If the guessed letter present in the word it will show the place of the letter in the word and other letters where indicatedd as "-" untill we guess it correctly. But if we guessed the wrong word we will start to lose a life andd it will be shown as Hangman with diagram. If we start to lose more life the diagram will get filled.If we failed to guess all the letters in the word within 7 attempts we will lose and the complete  Hangman will be displayed
